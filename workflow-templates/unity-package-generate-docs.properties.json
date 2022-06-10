@@ -1,0 +1,7 @@
+{
+  "name": "Unity Package - Generate Docs",
+  "description": "Generates static documentation for a Unity package",
+  "categories": [
+    "C#"
+  ]
+}
