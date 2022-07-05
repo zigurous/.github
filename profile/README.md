@@ -1,6 +1,6 @@
 ## Hello 👋
 
-We are an indie game developer creating Unity assets and tutorials to help developers create many kinds of games and grow their skills.
+We are an indie game developer creating Unity assets and tutorials.
 
 ### 🧰 Free & premium game assets
 
@@ -11,7 +11,7 @@ We create flexible, customizable Unity assets to help new and experienced develo
 
 ### 🎓 Game development tutorials
 
-We want to educate and inspire others who are interested in learning about game development. We release regular YouTube videos covering many topics teaching others how to make games using the Unity game engine.
+We release new YouTube videos on a regular basis to teach developers how to make complete games from scratch using the Unity game engine. Subscribe to our YouTube channel for free if you are interested in learning how games are made.
 
 - [Subscribe on YouTube](https://youtube.com/c/zigurous?sub_confirmation=1)
 - [Complete game tutorials](https://youtube.com/playlist?list=PLqlFiJjSZ2x39Qc0yj73Myixt8jmDUBNk)
